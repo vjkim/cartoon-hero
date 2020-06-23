@@ -9,10 +9,13 @@ h1{
 }
 
 header img{
-	width:300px;
 	border-radius: 150px;
+	width:300px;
+	border: 10px solid  #cc0000;
 
 }
+
+
 /*<header>
 		<img src="img/profile.jpg">
 		<h1>Wreck-it Ralph</h1>	
