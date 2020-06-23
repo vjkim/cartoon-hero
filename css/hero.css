@@ -8,8 +8,8 @@ h1{
 	color: white;
 }
 
-header img{
-	border-radius: 231px;
+header img {
+    border-radius: 231px;
     width: 300px;
     border: 24px solid #cc0000;
 }
@@ -19,4 +19,3 @@ header img{
 		<img src="img/profile.jpg">
 		<h1>Wreck-it Ralph</h1>	
 	</header>*/
-
